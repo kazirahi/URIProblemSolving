@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main()
+{
+    int x,dis;
+    scanf ("%d",&x);
+    dis = x*2;
+    printf ("%d minutos\n",dis);
+}
+
